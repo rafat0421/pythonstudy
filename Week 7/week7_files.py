@@ -1,5 +1,4 @@
 # Week 7 - File Handling and Mini-Program Design
-# Expert participant sample
 
 def read_file(file_name):
     with open(file_name, "r") as file:
