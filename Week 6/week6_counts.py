@@ -1,5 +1,4 @@
 # Week 6 - Strings and Dictionaries
-# Expert participant sample
 
 def clean_text(text):
     punctuation_marks = [".", ",", "!", "?", ";", ":"]
