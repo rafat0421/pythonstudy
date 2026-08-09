@@ -1,6 +1,5 @@
 """
 Week 3 — Loops and Lists
-Advanced participant sample submission.
 """
 
 numbers = [3, -1, 0, 8, -4, 15, -7, 0]
