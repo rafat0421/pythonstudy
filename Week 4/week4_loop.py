@@ -1,5 +1,4 @@
 # Week 4 - Withdrawal Checkpoint 1
-# Expert participant sample
 # Completed without ChatGPT or external help
 
 numbers = [12, -5, 0, 7, -3, 18, 0, -9]
