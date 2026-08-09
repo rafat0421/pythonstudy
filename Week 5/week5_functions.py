@@ -1,5 +1,4 @@
 # Week 5 - Functions and Decomposition
-# Expert participant sample
 
 def has_minimum_length(password):
     return len(password) >= 8
